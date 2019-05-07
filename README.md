@@ -28,7 +28,9 @@ git cms-merge-topic yrath:deterministicSeeds
 
 scram b -j 8
 
+
 #Common Classifier Code
+
 
 git clone https://gitlab.cern.ch/ttH/CommonClassifier.git TTH/CommonClassifier
 
@@ -38,7 +40,9 @@ source TTH/CommonClassifier/setup/install_recoLikelihood.sh
 
 scram b -j 8
 
+
 #Ragnarok
+
 
 git clone https://github.com/3wolf3/Ragnarok.git
 
