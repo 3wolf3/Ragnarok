@@ -1,0 +1,8 @@
+./runOverST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8_postMCsync_v0.csh
+./runOverST_t-channel_top_4f_inclusiveDecays_TuneCP5_13TeV-powhegV2-madspin-pythia8_postMCsync_v0.csh
+./runOverST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8_postMCsync_v0.csh
+./runOverST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8_postMCsync_v0.csh
+
+
+
+
