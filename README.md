@@ -1,5 +1,10 @@
 # Ragnarok
 
+#USAGE:
+
+To run over all events from SingleMuon datastream in PeriodB:
+./runOverSingleMuon_PeriodB.csh
+
 #RECIPE:
 
 source /cvmfs/cms.cern.ch/cmsset_default.csh
